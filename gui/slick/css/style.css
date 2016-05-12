@@ -868,7 +868,7 @@ home_trendingShows.mako
 /* =======================================================================
 displayShow.mako
 ========================================================================== */
-#showPick {
+#pickShow {
     display: inline-block;
     max-width: calc(100% - 40px);
     width: auto;
