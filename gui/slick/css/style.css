@@ -877,6 +877,7 @@ displayShow.mako
     .navShow:first-child::before {
         content: '';   
         display: block;
+        margin-top: 5px;
     }
 }
 #posterCol {
